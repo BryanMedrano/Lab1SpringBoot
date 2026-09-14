@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.table thead th {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.badge-account {
+    font-family: monospace;
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+}
