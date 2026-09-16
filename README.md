@@ -1,4 +1,4 @@
-# Banco UdeA - Laboratorio 1
+# Banco - Laboratorio 1 SpringBoot
 
 Este proyecto corresponde a una aplicación web que simula la gestión de clientes, cuentas bancarias y transferencias. Permite consultar la información de los clientes, realizar transferencias entre cuentas y consultar el historial de transacciones.
 
